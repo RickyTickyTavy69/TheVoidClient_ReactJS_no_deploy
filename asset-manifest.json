@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/voidappclient/static/css/main.0d3b74d0.css",
-    "main.js": "/voidappclient/static/js/main.ae461e25.js",
+    "main.js": "/voidappclient/static/js/main.ca9dc793.js",
     "static/js/787.c4e7f8f9.chunk.js": "/voidappclient/static/js/787.c4e7f8f9.chunk.js",
     "static/media/pexelsveeterzy-39811.jpg": "/voidappclient/static/media/pexelsveeterzy-39811.604ad688025e00182fe1.jpg",
     "index.html": "/voidappclient/index.html",
     "main.0d3b74d0.css.map": "/voidappclient/static/css/main.0d3b74d0.css.map",
-    "main.ae461e25.js.map": "/voidappclient/static/js/main.ae461e25.js.map",
+    "main.ca9dc793.js.map": "/voidappclient/static/js/main.ca9dc793.js.map",
     "787.c4e7f8f9.chunk.js.map": "/voidappclient/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d3b74d0.css",
-    "static/js/main.ae461e25.js"
+    "static/js/main.ca9dc793.js"
   ]
 }
