@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/voidappclient/static/css/main.b55a224c.css",
-    "main.js": "/voidappclient/static/js/main.5578c54a.js",
+    "main.js": "/voidappclient/static/js/main.4e8bcd29.js",
     "static/js/787.c4e7f8f9.chunk.js": "/voidappclient/static/js/787.c4e7f8f9.chunk.js",
     "index.html": "/voidappclient/index.html",
     "main.b55a224c.css.map": "/voidappclient/static/css/main.b55a224c.css.map",
-    "main.5578c54a.js.map": "/voidappclient/static/js/main.5578c54a.js.map",
+    "main.4e8bcd29.js.map": "/voidappclient/static/js/main.4e8bcd29.js.map",
     "787.c4e7f8f9.chunk.js.map": "/voidappclient/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b55a224c.css",
-    "static/js/main.5578c54a.js"
+    "static/js/main.4e8bcd29.js"
   ]
 }
